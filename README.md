@@ -1,16 +1,26 @@
-# Introduction to Git and GitHub
+# Final Project: [Insert Your Project Name Here]
 
-## Simple Interest Calculator
+## Project Overview
+This repository contains the final capstone/course project completed as part of the IBM Skills Network curriculum. The project demonstrates core competencies, end-to-end implementation, and practical application of the skills covered throughout the course.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+## Course Information
+- **Platform:** Coursera / IBM Skills Network
+- **Project Title:** [Insert Project Name, e.g., Full Stack Application / Machine Learning Pipeline]
+- **Author:** [Insert Your Name]
 
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
+## Features & Implementation
+- **Feature 1:** [Brief 1-sentence description of key functionality or model developed]
+- **Feature 2:** [Brief 1-sentence description of APIs, database, or backend integration]
+- **Feature 3:** [Brief 1-sentence description of testing, deployment, or visual dashboard]
 
-_© 2022 XYZ, Inc._
+## Technologies Used
+- **Languages:** Python / JavaScript / SQL / HTML / CSS
+- **Frameworks & Libraries:** [e.g., Flask, React, Pandas, Scikit-learn]
+- **Tools & Platforms:** GitHub, IBM Cloud / Theia Lab Environment
+
+## Project Structure
+```text
+├── README.md
+├── src/                # Source code and scripts
+├── data/               # Data files / schemas (if applicable)
+└── requirements.txt    # Dependencies
